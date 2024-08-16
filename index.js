@@ -13,7 +13,6 @@ const CHANNEL_ID = "Id du salon du chat"
    
 
 client.on("ready", ()=>{
-    client.user.setActivity('slyxx le coder', { type: ActivityType.Watching });
     console.log(`${client.user.tag} est bien en ligne`)
 })
 
