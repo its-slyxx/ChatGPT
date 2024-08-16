@@ -1,2 +1,2 @@
 # ChatGPT
-Bot discord connecter à ChatGPT
+Bot Discord connecter à ChatGPT
